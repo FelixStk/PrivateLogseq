@@ -1,0 +1,34 @@
+- ## Agenda #todolist
+	- ### TODO Finsih all lectures with cards
+		- TODO [#A] Vorlesung 2022-10-25
+		- TODO [#A] Vorlesung 2022-10-26 (Beispiele - Online)
+		- TODO [#A] Vorlesung 2022-11-01
+		- TODO  [#A] Vorlesung 2022-11-04 (Interrupts - Online)
+		-
+		- TODO [#A] Vorlesung 2022-11-08
+		- TODO  [#A] Vorlesung 2022-11-15 (05 Prozess-Scheduling - Online)
+		- TODO [#A] Vorlesung 2022-11-22
+		- TODO [#A] Vorlesung 2022-11-29
+		-
+		- TODO [#A] Vorlesung 2022-12-06
+		- TODO [#A] Vorlesung 2022-12-13
+		- TODO [#A] Vorlesung 2022-12-20
+		- TODO [#A] Vorlesung 2023-01-10
+		-
+		- TODO [#A] Vorlesung 2023-01-18 (08 Deadlocks)
+		- TODO [#A] Vorlesung 2023-01-18 (09 Soeicherverwaltung)
+		- TODO [#A] Vorlesung 2023-01-24
+		- TODO [#A] Vorlesung 2023-02-07
+		-
+	- ### TODO Exercises
+		- TODO [#B] Übung 01
+		- TODO [#B] Übung 02
+		- TODO [#B] Übung 03
+		- TODO [#B] Übung 04
+		- TODO [#B] Übung 05
+		- TODO [#B] Übung 06
+	- ### Other Things
+		- Register on FlexNow
+	- ### TODO Pass Exam 23.05.2023, 16:00 - 18:00;
+		- Raum: E-Prüfungsraum MZG 1.116, MZG/Blauer Turm
+-

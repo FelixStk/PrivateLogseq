@@ -1,0 +1,6 @@
+- What is the relationship between LCS and Edit Distance?
+	- Longest common subsequence distance allows only insertion and deletion, not substitution.
+-
+- What does strongly sublinear in N mean?
+-
+- [[Charalampopoulos et. al: An Almost Optimal Edit Distance Oracle]]

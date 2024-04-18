@@ -1,0 +1,62 @@
+- # Agenda #todolist
+	- TODO [#A] Lecture: May 2nd Fibonacci Heaps
+	- TODO [#A] Exercise: Dynamic Programming
+	- TODO [#A] Exercise: Math
+	- TODO Search for old course
+- # General Information - Advanced Topics on Algorithms
+	- Lecture Dienstag 14.15-15.45
+	- Übung 12.15-13:45
+	- Link: https://chat.gwdg.de/channel/ATOA-SoSe-2023
+	- ### Topics
+		- effcient algorithms and data structures. Examples: effcient sorting and searching (van Emde Boas trees, Radix Sort),
+		- parallel sorting (sorting networks),
+		- advanced tree-structures (Fibonacci heaps, B-Trees, disjoint sets),
+		- approximation algorithms,
+		- data structures (range minimum queries, lowest common ancestor, interval union-nd, level ancestor, applications to string algorithms),
+		- other topics: Hashing and Dictionaries, Young tableaux, geometric algorithms (convex hull), number-theoretic algorithms
+	- ### Reference
+	  collapsed:: true
+		- "Introduction to Algorithms", by Cormen, Leiserson, Rivest, Stein.
+		- research papers
+	- ### Agenda
+		- April 25: Binary Heaps and Applications (lecture, in presence). April 26: Tutorial, in presence.
+		- May 2nd: Amortized Analysis (online lecture, watch video from StudIP). May 3rd: Tutorial (online, BBB room of the lecture).
+		- May 9th: Fibonacci Heaps (lecture, in presence). May 10th: Tutorial, in presence.
+		- May 16th: Range Minimum Query (lecture, in presence). May 17th: Tutorial, in presence.
+		- May 23rd: Sorting Networks (online lecture, watch video from StudIP). May24th: Tutorial (online, BBB room of the lecture).
+		- May 30th: Van Emde Boas Trees part 1 (lecture, in presence). May 31st: Tutorial, in presence.
+	- ### Prerequisites:
+		- Basic knowledge of algorithms and data structures, the complexity of algorithms. (Binary Search, Sorting algorithms, Dynamic programming)
+		- Ref.: http://courses.csail.mit.edu/6.006/fall11/notes.shtml
+- # Basics
+	- [[Computational Model - RAM]] -> TODO: Card
+	- [[ Big   O   notation]] -> TODO: Card
+	- [[Master Theorem]] -> Exercise on lecture slides 01 (TODO)
+	- Toy Problems (Tutorial)
+		- Subarray of Maximum Sum
+		- Longest Increasing Subsequence
+- # Sorting and Order Statistics:
+	- ## Sorting in Linear Time
+		- ### Sorting-based Methods
+			- Recap: Quick-, Merge-, Heap- and Insertion-Sort
+			- Lower Bounds for Comparison Sort (in comparisons)
+		- ### Non-comparison-based methods
+			- Counting Sort
+			- Radix Sort
+			- Bucket Sort
+	- ## Order Statistics
+		- Minimum and Maximum
+		- Median and Select(n)
+	- ## Tutorial
+		- Hashing:
+			- https://sortingsearching.com/2020/05/21/hashing.html
+			- https://sortingsearching.com/2020/06/28/hashing-part-2.html
+		- Sorting:
+			- Kirkpatrick-Reisch sorting https://sortingsearching.com/2020/06/06/kirkpatrick-reisch.html
+			- Proof: $T(n)= T(\lceil n \rceil) + T(7n/10+6)= \mathcal O(n) = \mathcal O(n)$
+		- [[Dynamic Programming]]
+	- ## Other Things
+		- Binary Heaps
+		- k-way Merge
+		- Priority Queues
+-

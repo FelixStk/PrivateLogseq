@@ -1,0 +1,21 @@
+- # Denotion
+	- $f,g: \mathbb{N} \rightarrow \mathbb{N}$
+		- $f = \mathcal O (g(n))$
+			- means that $f$ is bounded above by $g$ (up to a constant factor) asymptotically.
+			- More formally: for sufficiently large $n$, we have $f (n) \leq k \cdot g(n)$ for some positive constant $k$.
+		- $f = \Omega(g(n))$
+			- means that $f$ is bounded below by $g$ asymptotically.
+			- More formally: for sufficiently large $n$, we have $f(n) \geq k \cdot g(n)$ for some positive constant $k$.
+		- $f = \Theta (g(n))$
+			- means that $f$ is bounded both from above and below by $g$ asymptotically.
+			- More formally: for sufficiently large $n$, we have $k_1 \cdot g(n) \leq f (n) \leq \cdot k_2 \ g(n)$ for some positive constants $k_1$; $k_2$.
+		- $f = o(g(n))$
+			- means that $f$ is dominated by $g$ asymptotically.
+			- More formally: for every positive number $k$ and for sufficiently large $n=n(k)$, we have $f (n) \leq k \cdot g(n)$
+		- $f = \omega(g(n))$
+			- means that $f$ dominates $g$ asymptotically.
+			- More formally: for every positive number $k$ and for sufficiently large $n=n(k)$, we have $f(n) \geq k \cdot g(n)$
+	-
+	-
+	- Average case complexity: $\tilde{O}$
+	-

@@ -1,0 +1,6 @@
+- # Smart Goal
+	- Specific: Try to improve your rope jumping skills in 30 min Workouts -> double under
+	- Measurable: Time, Place, and Duration of the exercise, skills, workout
+	- Assignable: I do it
+	- Realistic: So some kind of sport every day for 30 days
+	- Time-related: till 28.12.2023

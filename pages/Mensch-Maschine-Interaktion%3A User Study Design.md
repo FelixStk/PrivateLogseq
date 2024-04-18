@@ -1,0 +1,127 @@
+- ## About
+	- Source: Sara Streng, Ludwig-Maximilians-Universität München SoSe 2009
+	- Link: https://www.medien.ifi.lmu.de/lehre/ss09/mmi1/20090430_UserStudyDesign.pdf
+- ## Introduction: The Purpose of User Studies
+	- Criteria that need to be met to infer couase and effect (*Mill*)
+		- Cause has to precede effect
+		- Cause and effect should correlate
+		- All other explanations of the cause-effect relationship must be rules out
+	- How do you to inter causality?
+		- two controlled situations: Experimental & Control Group, otherwise idential situations
+	- Fundamental Definitions
+		- *Independent* vs *Dependent Variable*
+			- Levels
+			- *objective* and *subjective* values
+		- *Hypnotesis* and Null hypothesis
+	- How to isolate the cause?
+		- Control conitions
+		- Controlling other factors (e.g. risk of other factors influencing the experiment)
+		- Randomizing allocation of participants to experimental and control group
+- ## Reasearch Aims: Reliability, Validity and Generalizability
+	- **Valid** (accurate, show what you intended to show )
+		- Kinds
+			- Internal validity: Measurements are accurate and due to manipulations
+			- External validity: Representative of humanity, not only valid in experiment setting
+		- Threats
+			- Group threats: regarding experimental group and control group
+			- Instrument change: E.g. Interviewer gets more practiced, different devises
+			- Reactivity and experimenter effects: measurement -> change
+			- Differential Mortality: testing the same indivitual twice
+			- Regression to the mean: Extreme scores in a pretest
+			- Time threats: time as a unrelated cause
+			- Over-use of special participant groups
+			- Restricted numbers of participants: Ability to generalize, also threat to reliability
+	- **Reliable** (results are replicable by anyone)
+		- Methods
+			- Test/Retest
+			- Internal Consistency
+				- E.g. group questionnaire items to measure concept and compute correlation
+				- Cronbach's Alpha
+		- Have precise, unambiguous and objective definition of what is being measured
+			- Defintion by consensus
+			- Operational definition
+	- **Generalizable** (have wider application than the particular experiment)
+		- Test must be representable
+		- Descriptive statistics and inductive statistics
+	- **Important** and **Quality of Study Design**
+		- Isolate causal factor well
+		- Data consists of four components:
+			- maximize "true sore" for the things we hope to measure
+			- minimize score for other things that are measured inadvertently
+			- minimize systematic (non-random) bias
+			- minimize non systematic errors
+- ## Research Methods and Experimental Design
+	- Approaches to answering research questions
+		- Observational methods: observe what naturally happens without interfering
+		- Experimental methods: manipulate some aspects and observe the effect
+		- Combination is the Quasi-Experimental Method
+			- Control over timing of measurement
+			- no complete control over independent variables due to e.g. ethics
+	- Types of Qusi-Experimental Designs
+		- One group-test design (no baseline)
+		- One group pre-test/post-test design (no assesment of pre-test measurement effect)
+		- Interrupted time-series design (not immune to history threats)
+		- Static Group Comparison Design (weakness randomness)
+	- Types of Experimental Designs
+		- Within subjects (repeated measures)
+			- counterbalance order of conditions -> *Latin Square Design*
+		- Types of Between Group Designs (independent measures)
+			- Post-test only control group design
+			- Pre-test/post-test control group design
+			- Salamon four group design (two extra groups without pretest)
+		- Hybrid design
+	- Multi-Factorial Designs
+		- observe multiple variables interacting,
+		- difficult to interpret with more than 2-3 variables
+		- not much extra work with subject design, much more work with group design
+- ## Ethical Considerations
+	- Be aware of your powers, your responsibility and the ethics committee
+	- Guidelines
+		- protect participants confidentiality
+		- protection from physical and psychological risk
+		- informed consensus about: the experiment (paricualar risks), their rights, confidentiality
+		- inform participants, that the system is evaluated - not the user (not users fault)
+		- debriefing: tell participants what the study was about in the end
+	- Procedure
+		- Set goals (hypotheses)
+		- Design the experiment
+		- Do a pilot study
+		- Recruite users
+		- For each user typically:
+			- inform about experiment
+				- general purpose of the study
+				- procedure
+				- their rights to withdraw
+				- confidentiality
+				- risks
+				- system is evaluated not the user
+			- never reveal:
+				- hypotheses
+				- conditions
+			- do survey on demographics/questions related to the experiment
+			- give instructions, let user do task, measure
+			- be available for questions and (informal) feedback
+		- Analyse the results => accept/reject hypotheses
+- ## HCI related and practival information for your own sutdies
+	- What to evaluate?
+		- Ideas and concepts
+		- Desgings
+		- Prototypes
+		- Implementations
+		- Products in use
+	- Differentiate between assessing learnability or interaction
+	- Approches
+		- Formative evaluation: Throughout the design, helps to shape a product, qualitative
+		- Summative evaluation: Quality assurance of the finished product, quantitative
+	- Recruiting and Participants
+		- number depends on Project, Goals, Setup, min size about 10
+		- participants should be representative for the user group (age, background, skills, ...)
+	- Describe Specifications of Experiment Setup (to be reproducible)
+		- Hard- and software in use
+		- Detaild description of self-build prototypes
+		- the environmental conditions
+		- Skills of the test users
+	- Reporting Results of a User Study
+		- Anonymize participants
+		- Background of participants
+		- Details of tasks, exact wording: What did they do? Why did they do it? What didn't they do? What is interesting? What was surprising to you?

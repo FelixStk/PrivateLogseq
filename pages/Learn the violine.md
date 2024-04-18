@@ -1,0 +1,10 @@
+- # Smart goal
+	- Specific: Do the violin lab program, and be able to play tese songs, practise every day for
+		- Crystalize
+		- Wake Me Up
+		- Lord of Rings and Pirate of Caribians Theme
+		- Sad Violin
+	- Measurable: Record Videos, Keep Activity Log and scucceses
+	- Assignable: I do it
+	- Realistic: go through all Suzuki books
+	- Time-related: till the end of 2027

@@ -1,0 +1,106 @@
+- ## Accomplishments and successes
+	- ### Personal
+		- Meet a friend (Ali) for the first time. This is the first meetup since 2015
+		- Lern about self sabotage and start taking my mental health searios, which means to me scheduel time to process emotion
+		- Had a timeout to build my own mental strengh up.
+		- calories taking, healthy eating and devleoping the will to live life
+		- going swimming in the outdoor pool (starting to be my own best friend)
+	- ### Academic
+		- Marketing lecture
+		- Database lecture
+		- Machine learning lecture
+		- Learn how to program pepper
+- ## Strengths and areas for improvement
+  collapsed:: true
+	- ### Strengths
+		- Concentrating and Problem solving
+		- Ephathy
+		- Curiosity (listen to a lot of huberman podcast and spent way too much time on scientigif yt)
+		- Adaptability
+	- ### Areas for improvement
+		- Communication and Social life ->
+			- Books as guildlines
+			- Learn Buisness English B2
+		- Time management:
+			- Use todolists,
+			- Use a calendar,
+			- User time managing tools on a daily basis
+		- Leadership:
+			- Be energetic, inspiring, guiding toward a shared goals
+		- Creativity:
+			- Balance time to recharge with leaving your comport zone and try new things.
+			- Allocate time to stimulate your curiosity and be open minded
+			- Practice brainstorming and freewriting
+			- Use prompts or constrains to challenge your thinking
+			- Collaborate with others and seek out diverse perspectives
+			- Be brave! Don't be afraid to make mistakes or take risks
+- ## Values and priorities
+	- ### Values
+	  id:: 63b1598b-7287-412e-b4a8-c8a12505afc5
+		- Virtues to be expected #.v-numlist
+			- Discipline
+			- Self-Control
+			- Modesty
+			- Benevolence
+		- Virtues to be learned
+			- The virtues of the action / Behavior #.v-numlist
+				- Humility
+				- Respect
+				- Righteousness
+				- Trust
+				- Loyalty
+			- The virtues of the Spirite / Mind #.v-numlist
+				- Will
+				- Perseverance
+				- Persistence
+				- Patience
+				- Courage
+	- ### Priorities
+		- Finish my studies -> Commitment and Discipline
+		- Financial independence
+		- Speak english fluently
+		- Build up keystone habits
+			- Morning routine, Daily routine
+			- Eating healthy, exercising
+			- Read more and consume less social media
+			- Practice self care daily (meditation, relaxation, sleep, journaling, woebot, ...)
+- ## Financial goals and Progress
+	- Start keeping track of finances -> Money Pro
+	- Start your Portfolio -> parget, portfolio performance
+	- Finish my computer science degree and get a first job or a side job for my MSc
+- ## Personal Relationships
+	- ### Family
+		- Dad: Many misunderstandings, no real report -> keep door open for improvement but don't rely on his support
+		- Mom: Good report -> share postive aspects of your life. Don't rely on her support, because she is very baised in her perspective (only wants the best for me)
+		- Brother: Distroyed my finger, write a email every couple of weeks to keep the communication open
+	- ### Friends
+		- ALi: Good report -> don't lose him as a friend, maybe meetups or texts
+	- ### General remarks
+		- I want to build up my social support network
+		- I want to learn and practices how to have decent relationships (Friends, Girlfriend)
+- ## Physical and Mental health
+	- ### Physical health
+		- I am slightly overweight. And am commited to lose weight until I weight 80 kg.
+		- I want to continue a low carb diet.
+		- I am weak -> Calistanice programm.
+		- I want to do a general test (blood etc.), because i am often unmotivated.
+		- I am commited to care about my hygene: Teeth, Cloths, Clean Appartment...
+	- ### Mental health
+		- I will stop my self-sabotage -> week by week plan in the book [[Stop Self-Sabotage]]
+		- I commit to a daily cbt practice with the woebot and the cbt workbook later.
+		- I will scheduel self-care habits. For example meditation, relaxation exercises, good sleep habits and many other exercises. I commit to it.
+		- In 2022, I was too much of an Couch-Potato and played way to many video games (witcher, rimworld, oxygene not incluede... ). My dopamine circuits are messed up. And I have to fix them now by some from of a dopamine detox. Some people would call it a depression.
+		- I commit to makeing my life my own. To make it unique and awesome. No regrets!
+- ## Personal and profressional goals:
+  id:: 63b1598b-8b74-4ffb-8688-dd31812f31c6
+	- ### Personal Goals
+		- Develop the feeling of being connected to my friends and family
+		- Commit and develop to 30 habits [[Habit Protocol]]
+		- Read 24 Books [[Reading List]]
+		- Learn how to drive a car
+		- Finish Level 1 and Level 2 of the CaliMove Program https://www.calimove.com/
+	- ### Professional Goals
+		- Finish Computer Science BSc
+		- Financial Indipendence-> First job, side job
+		- Get a B2 English Certificate
+-

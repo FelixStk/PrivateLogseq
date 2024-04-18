@@ -1,0 +1,95 @@
+- # Introduction: Why We Get in Our Own Way
+	- the propensity to commit self-sabotage is built in our neurobilogy and woven into the very fabic of what makes us human
+	- ## Attaining Rewards
+		- Dopamine as hit of *positive feelings*: Happiness, pleasure and well-being. E.g. when we eat, have sex, play video games the amount of dopamine in the brain increases
+		- Once we get that *prize*, dopamine continues to flow and often surges, making it even more likely that we will *repeat* that reward-getting behavior (helps to maximize rewards on that our  survival depends)
+		- Dopamine is released in the brain *in response to rewards*
+			- *Primary rewards*: include those that are necessary for survival, such as food or sexual contact
+			- *Secondary rewards* motivate behavior towards goals we have been socially conditioned to value (think money or a high-powered job). The feel-good effects can be observed or felt directly through seeing the positive social and emotional outcomes that happen to others who receive a similar reward or noting how great we feel when we obtain a secondary reward.
+			- Our brains enjoy both types of rewards equality and both are important to out physical and metal well-being
+		- Dopamine is released in the brain *in the presents of a potential reward*
+			- E.g. prospective mate at a party, delicious cookies
+			- Here dopamine tells our brains
+				- to pay attention and encourages us to act
+				- strengthen our memory, so that the next time we are in a similar situation we are more likely to do what it takes to get the prize again
+			- It is abundantly flowing *before, during and after* the presence of a prize, to encourage us to attain rewards repeatedly
+		- *Our biochemistry doesn't necessarily discriminate between the kind of feel-good sensations we experience when we are going toward our goals and the "good" feelings we get when we avoid something that seems threatening.*
+	- ## Avoiding Threat
+		- Learning to avoid threat is an essential survival skill for humans and animals. Feat is the emotion that is most responsible for getting us ready for battle, bailing us out of a potentially harmful situation, or hunkering down in self-protection (helps to survive).
+		- In humans are three responses
+			- fight: believe we have the skills to defeat the treating situation
+			- flight: default response when we don't think we can overcome the threat
+			- *freeze: too overwhelmed by the challenge to choose any actions -> temporarily numbs yourself from psychological discomfort and distance yourself emotionally from the situation so that the outcome won't hurt as badly -> staying in a unsatisfactory situation*
+		- Threats can be about physical survival or to preserve psychological well-being.
+		- We don't need real threat to our survival in order for fear to kick in. We can experience **fear by  remembering something scary from our past**, or by perceiving something as threatening even when it isn't .
+			- *fear-based memories* are much more prominent and vivid than other more mundane memories
+			- during a fear response *cortisol* is especially active
+				- tells brain to pay attention, and prepares you for getting our of the situation alive.
+				- supports building memories for that event so that if it happens to you again you can respond in self-defense in record time. -> Can lead us to remember the bad more than the good and selectively recall past mistakes. -> negative mental chatter
+		- Attaining reward and avoiding threats aren't independent systems. There is a constant interplay in the brain to bring the tow drives to an equilibrium. Self-sabotage occurs when your drive o reduce threat is higher than your drive to attain rewards, and it's all tied into the approach-avoidance conflict.
+	- ## Approach and Avoidance
+		- theory first proposed in 1935 by psychologist Kurt Lewin.
+		- He argues that *internal conflict* occurs when there is a *goal* in that *has both positive and negative consequences* which make pursuing that goal simultaneously *appealing* and *unappealing* (e.g. running a marathon). You may experience a pattern of early strong pursuit (approach) followed by waning motivation and effort (avoidance), or find your efforts ebbing and flowing between chase and retreat.
+			- Approach aspect of pursuing a goal as the part of your brain that wants to attain rewards
+			- Avoidance aspect as the part of your brain that wants to doge threats at all costs.
+		- Sometimes, we charge through the uncomfortable aspects of pursuing a goal and reach our objectives. *But other times, when our drive to avoid threat is stronger than our desire to attain a reward, self-sabotage occurs. (might be due to hundreds and thousands of years of evolutionary programming)*
+		- During earlier times in human history, anticipating and avoiding physical threat was paramount for surviving another day, so the human mind prioritized this objective above all else. Nowadays, we leads us to get stuck tying to avoid psychological threats like rejection, discomfort, stress, sadness, or anxiety, although these things won't actually kill us.
+	- ## L.I.F.E. Happens
+		- Dr. Judy Ho's research and experience in working with clients: There are four elements that fuel the conflict between going for what you want (approach) and being held back by perceived threats that actually won't harm you.
+		- They represent aspects of your personality and how you relate to the world (think OS). We typically acquire these elements when we are younger, and because they are with us over time they tend to be outside of your awareness.One element may have a big influence in one area of your life but not in another.
+		- ### Low or Shaky Self-Concept
+			- Self-concept is your image of who your are and how you define yourself. Social psychologist Roy Baumeister describes it as "the individuals's belief about himself or herself, including the person's attributes and who and what the self is." The idea includes the
+				- sense that you are separate and different from others,
+				- that you have certain characteristics that are uniquely yours (i.e. self-esteem or self-worth),
+				- the view uou have of yourself (self-image), and
+				- what you wish you where like (ideal self)
+			- We don't only have one sense of self, we have many facets of your identity to which we attribute different levels of confidence. Your self-concept is made up of many different components that re usually associated with social roles, and each of these roles plays a part in your overall self-concept based on the importance you place on each of them and how ell you feel you are fulfilling each role (e.g. entrepreneur, parent, friend, partner, athlete, mentor, and home cook).
+			- You may prioritize these roles based on how much they contribute to who you are and what you stand for, and each of these function are associated with different levels of self-esteem (e.g. confident in parenting skill or athletic ability). The closer you get to your ideal self, the better you tend to feel about your life.
+			- When we have a solid self-concept, we tend to have a positive view of ourselves. We believe that , on most days ,we are closer to our ideal self (or at least that the ideal self is probably attainable).
+				- confidence in our ability to achieve goals
+				- be more optimistic about potential outcomes in owwrk, life, and relationships,
+				- worry less than the average person about what others might think of us because we feel solid about who we are
+			- When we have a Low or Shaky Self-Concept we tend to believe that our ideal self is nothing more than a pipe dream. We lack confidence in our own ability to achieve gals, doubt that good things will ever happen to us, and look to external circumstances and events for how we should feel about ourselves on any given day. It makes us somewhat insecure about who we are, our place in the world, and our ability to bring about positive change. We may even believe that we aren't deserving of good things. It can contribute to self-sabotage and reinforce a vicious cycle.
+		- ### Internalized Beliefs
+			- Learing Theory: behaviors are heavily dependent on vicarious conditioning. (learning through observing the consequences of others' behavior)
+				- each time an event occurs, it presents an opportunity to internalize information we can apply to a similar situation later
+				- It is a gradual learning process that we mature cognitively and socially, and understand how to behave each and every day
+				- adults (parents, teacher, etc.) make especially powerful impressions on us -> beliefs, attitueds, and behaviours. "Don't play basketball, you could really injure yourself!" -> good for survival & avoidant behaviour
+			- Learning through negative verbal information: occurs by being told by others what to fear
+				- hearing negative messages about your performance or being judged for your efforts constantly especially when you feel you did try your best, makes you start to question whether anythong you do will be good enough.
+				- This creates an negative internal voice. It contributes to self-sabotage, because when you doubt what you are capable of, you are likely to either never start pursuing your goal or quit halfway.
+				- Negative self-talk that arises from internalized beliefs is a major driver of self-sabotage. If you don't believe you will be rewarded for your efforts (because you have come to believe you don't have what it takes) you may never make an effort at all.
+				- E.g. This is not good enough, and I just want you to be your best!
+		- ### Fear of Change or the Unknown
+			- Habit, Routines and familiarity confort our minds, which love repetition as a way to instill calm and manage stress
+			- The mind is a miser [dt. Geizhalz] a term first coined by psychologists Susan Fiske and Shelley Taylor, PhDs.
+				- the brain tires and fatigues. Load it up with too much information, and it will become scattered and impulsive or simply too overwhelmed to do anything productive -> mind looks for shortcuts
+			- Something new is interterpreted as a stressor by the mind.
+				- We cannot do it on autopilot.
+				- If the change is too big, sudden, especially confusing to our brain or there are too many at once and when feeling pushed beyond the comfort of usual levels of familiarity, you may respond to a new challenge by choosing to remain in the same place and continuing to do the thing you  always did.
+			- It takes some effort to realize this might be the culprit in your self-sabotage, because it usually involves doing nothing different, rather than something active to mess up your progress toward a goal.
+		- ### Excessive Need for Control
+			- Researchers have long believed that Control is psychological and bilogical necessity. It is not acquired through learning, but is innate and biologically motivated. (evolutionary: stay in a controlable enviroment)
+			- We cannot control every aspect of our lives and we'd make ourselves crazy trying to do so. So the key is *believing* that we are masters of our environments, because this gives us a sense of relief (and belief) that we have some power over the good things that happen to us as well as the ability to prevent potentially bad things that can befall us.
+			- This adaptive mechanism of wanting control can get in the way of reaching your goals.
+				- If you feel that you must always be able to see the finish line and every single step along the way as clear as day before you even take your first step, that need will *likely stop you from ever starting*.
+				- Or *lead to quitting in the middle* because your need for control is so strong and causes so much tension that any unknows along the way are simply too much for your conscious mind to deal with.
+			- If you are having trouble self-identifying as a person who has Excessive Need for Control as yourself
+				- Does your need for control get in the way of your relationships?
+				- Do you snap too quickly at something that seems minor because you felt like you were losing control?
+				- Do you find yourself in unnecessary conflicts at work because of your need for control?
+				- Do your love of control make it harder for you to enjoy activitties and events when you don't know what's going to happen?
+		- ### Tying It All Together
+			- The common element between this 4 elements are our cravings for safety and comfort
+				- Self-Sabotage keeps us in our comfort zone.
+				- Self-defeating behavior can temporarily allow us to avoid psychological threats like stress and fear by giving us a brief moment of reief.
+				- Self-sabotage then likely repeats itself the next time we feel psychologically threatened, because staying where you are and not moving forward worked previously to remove distress for a little while.
+					- repetition and these pattern smothe the brain -> learning these kinds of "solutions". Especailly during stressful times
+				- Sady nothing transformative can happen if we aren't open to a little risk or discomfort now and then.
+	- ## S.M.A.R.T Goals
+		- put forth by George Doran and proposes tht goals should be
+			- Specific (garget a specific area of improcement)
+			- Measurable (quantify or at least suggest an indicator of progress)
+			- Assignable (specify who will do it)
+			- Realistic (state what results an realistically be achieved, gain available resources)
+			- Time-related (specify hen the results can be achieved)

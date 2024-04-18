@@ -1,0 +1,8 @@
+- # 2022
+	- ## November
+		- [[Low Carb diet]]
+		- [[100 days Working Challenge (Pepper ed.)]]
+		- [[Establish Working with Calendar]]
+		- [[30 day Seilspringen Challenge]]
+		- [[Learn the violine]]
+-

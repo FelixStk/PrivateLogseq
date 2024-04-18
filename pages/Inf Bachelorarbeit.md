@@ -1,0 +1,3 @@
+- # Agenda #todolist
+	- TODO [#A] Read Quadratic-Time Hardness of LCS and other Sequence Similarity Measures
+	- TODO [#B] Review: Finegrained Complexity Theory Chapter 3

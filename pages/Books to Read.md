@@ -1,0 +1,12 @@
+- Für alle noch als kleine Sammlung, falls euch das eine oder andere Buch interessiert:
+	- „Du musst nicht von allen gemocht werden“
+	- „Komm, ich erzähl dir eine Geschichte“
+	- „The Big Five for Life“
+	- „Café am Rande der Welt“
+	- „Was nützt die schönste Aussicht, wenn du nicht aus dem Fenster schaust“
+	- „Der Alchimist“
+	- „Girlboss“ (Biografie)
+	- „You are a badass at making money“
+	- „Dream big“
+	- „Was weisse Menschen nicht über Rassismus hören wollen, aber wissen sollten“
+	- „Eine kurze Geschichte der Menschheit“

@@ -1,0 +1,92 @@
+- # Possible Emotions to Track
+  title:: Emotionen
+  collapsed:: true
+	- Happy
+	- Excited
+	- Interested
+	- Angry
+	- Grateful
+	- Confused
+	- Afraid
+	- Frustrated
+	- Cheerful
+	- Nervous
+	- Cranky
+	- Proud
+	- Irritated
+	- Loving
+	- Guilt
+	- Calm
+	- Lonely
+	- Disgusted
+	- Hopeful
+	- Worried
+	- Content
+	- Stressed
+	- Peaceful
+	- Hurt
+	- Relaxed
+	- Sad
+	- Bored
+	- Upset
+	- Disappointed
+	-
+- #
+- # https://emotiontypology.com/
+	- negative emotions:
+		- bright red:
+			- Zorn [Anger]
+			  collapsed:: true
+				- Das Gefühl, wenn jemand etwas Schechtes getan hat, das dir geschadet hat oder dich beleidigt hat. Sie wollen gegen diese Person vorgehen, um sie zu stoppen oder zu verhindern, dass sie es wieder tut.
+					- Beispiele
+						- jdm. verbreitet Gerüchte
+						- jdm. Schubst dich absichtlich im Zug
+						- jdm. redet im herablassenden ton mit dir
+						- jdm. fährt auf dein Auto auf
+					- **Schlechtes** meint respektiv, verletzen der Reputation, körperliches Verletzen oder das Beleidigen der Intelligenz
+					- Sie geben der anderen Person die **Schuld** für das, was passiert ist
+						- , weil Sie *absichtlich* **schädigen, beleidigen oder verletzen** wollten
+						- , weil Sie **ungeschickt, unfähigkeit, unwissenheit oder fahrlässig** *unabsichtlich handelt* (nur wenn es vollständig ausserhalb seiner Kontrolle ist fühlst du keinen Zorn)
+					- Nicht alle Fälle von Leid sind notwendigerweise schlecht. Z.B. Zahnarzt mag dir wehtun -> Nur ein Kind würde zornig werden
+					- Zornige Menschen haben ein Verlagen Zurückzuschlagen oder die andere Person zu bestraffen
+						- Drang zu jdm. zu beleidigene oder zu schlagen
+					- Scheint zum teil eine primitive Auge um Auge Reaktion zu sein. Erfüllt aber zwei noch heute relevante Funktionen:
+						- Kommuniziert Grenzen, um zu verhindern, dass Sie zu einem leichten Angriffsziel werden
+						- Bestrafung hat eine soziale Funktion -> altruistische Bestrafung (für eine Etablierung von Normen in einer Gesellschaft)
+					- Typischer Ausdruck
+						- Was hast du zu mir gesagt?!"
+						- "Jetzt wirst du was erleben!"
+					- Vergleich mit anderen Emotitionen
+						- Zorn und Frustration -> können beide auftretten wenn etwas im Weg steht ein Ziel zu erreichen
+						- Zorn und Indignation -> Bezug auf moralische Ebene (Zorn = persönlich, Indignation = allgemeiner z.B. Gesellschaft ~ Entrüstung/Empörung)
+						- Zorn und Traurigkeit -> Werden ausgelöst durch etwas Schlechtes: Zorn~Schuld, Trauer als Resultat von Umständen oder Unglück
+						- Zorn und Ärger -> Tretten auf wenn jdm. etwas tut was ungewollt ist. Ärger ~ etwas gegen aktuellen Wunsch; Zorn mit schlechter Motivation
+						- Zorn und Hass -> Hass impliziert häufig Zorn, aber nicht vice versa. Unterschiedliche Zeitskalen (Zorn nur bis zur Verhaltensänderung)
+						- Zorn und Demütigung -> Different reactions (submit or retreat vs person become antagonistic). Condition that cause emotion are similar (main determinant is the degree of power of the other person or the situation)
+					-
+					-
+			- Indignation
+			- Resentment
+			- Annoyance
+			- Dissatisfaction
+			- Frustration
+		- red
+			- contempt
+			- hate
+			- disgust
+		- light red
+			- boredom
+			- reluctance
+		- light purple
+			- sadness
+			- disappointment
+			- pity
+		- purple
+			- loneliness
+			- rejection
+			- humiliation
+			- longing
+			- envy
+			-
+		-
+		-

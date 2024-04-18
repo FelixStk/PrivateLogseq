@@ -1,0 +1,8 @@
+- # Veranstaltungen
+	- [[Inf Bachelorarbeit]] 12C
+	- [[Betriebsysteme]] 5C
+	- [[Advanced Topics on Algorithms]] 5C
+	- [[Computational Neuroscience: Basics]] 3C
+	- [[Deductive Databases]] 6C
+	-
+	-

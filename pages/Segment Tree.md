@@ -1,0 +1,5 @@
+- Types of segment trees
+	- **Sum segment tree**: stores the sum of elements in each segment of the array and is used in a problem where efficient answer queries are needed about the sun of elements
+	- **Min/Max segment tree:** It basically stores the minimum or maximum element in each segment of the array.
+	- **Range update segment tree / Lazy Tree**: It allows you to update a range of array elements with a given value. It is used to efficiently update a range of array elements.
+	-

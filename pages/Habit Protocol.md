@@ -1,0 +1,16 @@
+- # The Science of Making & Breaking Habits
+	- {{video https://www.youtube.com/watch?v=Wcs2PFz5q6g}}
+	- ## Tools
+		- Applying Procedural Memory Visualizations
+		- Task Bracketing; Dorsolateral Striatum
+		- Phase-Based Habit Plan: Phase 1, 2 and 3
+	- ## 21 Day System
+		- 6 new habits per day for 21 days
+		- expectation do complete 4-5 per day (forgiving producol and non daily activities), miss a day -> no punishments don't do habit slip compensations
+		- idea: system is based on having the habit to perform habits
+		- be good in grad-school: Don't engage in a habit if you cannot keep consistently up for 5-6 times a week
+		- Trick: Bin two days together. If you can do it one you can do it twice!
+		- After 21 days: Stop in deliberte 3-5 things per day tight schedule, and you simply go into autopilot. Test if habit stuck with you! The test phase is also 21 days long.
+	- ## Break a habit
+		- Catch when you executed a the bad habit. Then engage in a replacement behavior. E.g. pick up phone at work -> engage in a some other positive habit (e.g. breath work, drink water, language learning)-> link up good behaviour to bad haviour. and starts to recruit other neural circutis -> create double habit -> change habit through increased awareness (changes the behaviour from a closed loop to a open loop).
+	-

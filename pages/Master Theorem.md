@@ -1,0 +1,17 @@
+- # Basic Formulation
+	- Let $f : \mathbb N \rightarrow \mathbb N$ be a function that bounds above the number of steps made by a procedure (algorithm) on any input of size $n$.
+	- Assume that $f (n) = af (n=b) + g(n)$, where $a \geq 1$; $b > 1$; and $g : \mathbb N \rightarrow \mathbb N$
+		- If $g(n) = \mathcal O (n ^ {(\log_b a)- \epsilon})$ for some constant $\epsilon > 0$, then $f (n) = \Theta (n^{\log_b a})$
+		- If g(n) = $\Theta (n ^ {(\log_b a)} \log_k n)$ with $k \geq 0$, then $f (n) = \Theta(n ^ {log_b a} log^{k+1} n)$
+		- If $g(n) =  (n ^ {(\log_b a)+\epsilon})$ for some constant $\epsilon > 0$, and if $a \cdot g(n/b) \leq c \cdot g(n)$ for some constant $c < 1$ and all suffciently large $n$,
+		  then $f (n) = \Theta(g(n))$.
+-
+- # Theorem Extensions
+	- Case 2 can be handed for all $k$: https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
+		- Source: Chee Yap, A real elementary approach to the master recurrence and generalizations, TAMC'11, pages 14–26, 2011
+	- On the Solution of Linear Recurrence Equations, Mohamad Akra & Louay Bazzi
+		- Source: https://link.springer.com/article/10.1023/A:1018373005182
+		- PDF: https://raw.githubusercontent.com/emintham/Papers/master/Akra,Bazzi-%20On%20the%20Solution%20of%20Linear%20Recurrence%20Equations.pdf
+		- Summary: https://people.mpi-inf.mpg.de/~mehlhorn/DatAlg2008/NewMasterTheorem.pdf
+	- Basic Version from MIT 6006: https://courses.csail.mit.edu/6.046/spring04/handouts/akrabazzi.pdf
+	-

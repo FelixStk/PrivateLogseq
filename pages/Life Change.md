@@ -1,0 +1,32 @@
+- # Sich versagen vorstellen
+	- Arten von Versagensgedanken
+		- Type 1: derzeitiges konkretes Verhalten -> abstrakte, zukümpftige, nicht unmittelbare Folgen (negative Folgen möglichst konkrete vorstellen); Effket: negative Gewohnheiten brechen durch bewusstmachung
+			- Aufgeben -> Ziele, Aktivitäten, Träume
+			- Im Dreck leben -> Krankheiten, Selbstwert,
+			- Fulgär reden -> Ablehnung, Sprachliche Grobheit führt Gossip Wahrnehmung
+			- Vor dem Computer verwarlosen -> Caotische Mediennutztung, Soziale Medien Sog
+			- Porn ersetzt Freundin -> Ausbäutung von Menschen, Vereinsammung
+			- Prokrastinieren -> akademischer Stillstand, Armut, Chaos (Verlässlichkeit)
+			- Im Bett weiterschlafen -> Kurzfristiges Wohlführen, Prokrastinieren
+			- Sprachliche Fahigkeiten verkümmern lassen -> Schwirigkeiten bei Textproduktion/Produktivität
+			- Mutlos verharren (nicht den nächsten Schritt gehen) -> Prokrastinieren, Seelische Schmerzen
+		- Type 2: Abstraktes Ziel -> konkrete Bedrohung für das Ziel; Effket: Zielvervollgung durch Angstschürrung
+			- Englisch beherschen-> stottern, Grammatik Fehler
+			- Violine -> Töne klingen schief, Rythmus unregelnmäsig, Oberflächliche Fähigkeiten
+			- Prüfungen bestehen -> FlexNow anmeldung fehlt, kein Lernplan
+		- Type 3: potentille Folge -> Intensiver Ausmalung der Folgen, Effekt: Gefühle verknüpfen s.d. die Gefahr real wird, aber nicht unmanagebar wird
+			- Armut -> unbefriedigbare Dränge, Krankheiten (physich, psychisch), Stillstand
+	- Aktion:
+		- Immer mindestens 5 SMART Ziele haben [[My SMART Goals]]
+		- Nach aufstehen: Drei Type 2 Versagensgedanken zu jedem SMART Goal, Alternative falls keine Lust darauf, Type 1 Gedanken aufschreiben
+		- Zu jedem Typ 1 oder Typ 2 Gedanken einen Typ 3 Gedanken finden.
+		- Abschließend ersten, nächsten und einfachen Schritt aufschreiben um es zu verhindern
+-
+- # Zeitmanagement
+	- Gundsätze
+		- 8 hr Schlafen
+		- 2 hr Freizeit (Violine, Kochen, English)
+		- 1 hr Sport (Laufen, Seilspringen, Muskulatur)
+		- 7 hr Arbeiten (4x90min + 20 minuten Pausen)
+		- 4 hr Putter (60 min Morgenroutine, 60 min Mittagessen + Abendessen, Aufarbeiten)
+		- 2 hr Emotional Regulation (Video Tagebuch, Journaling, Psycho Exerciese)

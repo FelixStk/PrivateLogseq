@@ -1,0 +1,237 @@
+- ## Video
+  collapsed:: true
+	- {{video https://www.youtube.com/watch?v=K-TW2Chpz4k&t=3761s}}
+- ## Dopamine Brain Circuits
+	- dopamine is a neuromodulator (a chemical that modulates the electrical activities of other cells e.g. neuros)
+	- Nigrostriatal pathway
+	  collapsed:: true
+		- back in the brain there's a area called substantia nigra (dark pigmented neurons) that are chock a block full of dopamine
+		- neurons in the substantia nigra release dopamine in a brain structure called the striatum
+			- the striatum is involved in movement -> initiation and suppression (go and no go suppress action pathways)
+	- Mesolimbic Pathway and Mesocortical Pathway
+	  collapsed:: true
+		- Both initiate from a set of neurons in the **ventral tegmental area (VTA)**. The VTA functions in close partnership with the **nucleus accumbens** (NA).
+		- Mesolimbic Pathway these neurons are projecting (connecting) to areas of the brain like the **hypothalamus** (above the roof of your mouth, responsible for basic functions for survival e.g. body temperature, libido, hunger, signals for hormone release to pituitary gland into the bloodstream).
+		- Mesocortical Pathway projects to the **prefrontal cortex**. The prefrontal cortex resides right behind your forehead. It's involved in planning and executing of actions, making good or bad decisions depending on context (and understanding the context). It decides what sorts of actions need to be generated and suppressed. Analogy: It says Shhh or not now to other brain regions. -> Procrastination, Motivation
+	- Tuberoinfundibular pathway
+	  collapsed:: true
+		- Connects brain and your pituitary gland (releasing luteinizing hormone, follicle stimulating hormone, melanocortin hormone ... -> reproductive organs, cortisol, thyroid regulation)
+	- Retinal circuitry: Multiple intracellular pathways. Dopamine release is responsible for adapting to light conditions. Automation of the visual system.
+- ## Goals and Addiction
+  collapsed:: true
+	- Mesocortical circuit and Dopamine do not care about any specific goal or pursuit. They uses Dopamine to peruse anything (e.g. drugs of abuse).
+	- Working Definition of Addiction: Addiction is a progressive narrowing of the things that bring us pleasure.
+		- A healthy functioning of the mesocortical pathway allows us to toggle or switch back and forth between different types of pursuits
+- ## Dopamine Dynamics
+  collapsed:: true
+	- Peak and troughs:
+		- A peak of dopamine is a release of it into the frontal cortex where it has the effects of activating or suppressing actions. They are triggered by certain behaviors, compounds drugs/substances, food, etc.
+		- Dopamine Baseline: It's our reservoir of your dopamine. (how full or empty our dopamine pool is)
+		- There are troughs: After a peak the dopamine level go below the baseline.
+	- Analogy from Dr. Kyle Gillette for how dopamine works in the mesocortical pathway:
+		- Notion of a wave pool. Waves can be of different heights:
+			- Could be little ripples (little mini peaks) or could be big, crashing waves.
+			- If the frequency and height of those waves is very very large some water can slosh out of the pool and the baseline drops.
+			- If the waves are small enough or they are seldom enough, the baseline stays constant.
+		- Models how peaks and baseline relate to one another. The peaks and the baseline relate to one another!
+- ## Craving, Motivation , Pursuit & Reward Prediction Error
+  collapsed:: true
+	- For every peak there is a trough!
+		- Dopamine is triggered by something you **desire or crave** - is released in anticipation of what you want. (Could be anything for example food).
+			- This increase in dopamine is a little mini peak and is by no mistake. It relates also to our propensity and desire to move.
+		- Very soon after you realized your desire for something, the peak comes down and *drops below baseline*. (Lower than before thinking about the food).
+			- It's this drop below baseline that triggers your desire to go out and find that food/coffee/water or whatever.
+		- Now you are **motivated**. You are in pursuit of the goal (looking where to get the food - order it, find it, ...).
+			- Now is the stage in which you have to think about what are the different stimuli (things in the environment, that signal whether or not I'm likely to get that food. Examples: Ordering food on an app or walk down a street and see the sign for a deli - that's a cue
+			- The cue is a sign that I'm likely to relieve that drop in dopamine and get not just back to baseline, but then I'll get a peak in dopamine
+		- You find a way to your food. Example go into the deli, are open, they make your sandwich and you get it.
+			- You'll get some degree of inherent reward of the food. E.g. your liking it or not.
+			- You'll compare the desire for the food to the food you actually got. Chances are it relives your craving and you get back to the dopamine baseline and above it
+		- You are fine with the food.
+			- Reward prediction error: The dopamine that experienced (is released from the VTA and nucleus accumbens) is of a certain value. That value is compared to the desire and the expectation of what you thought you were going to get.
+			- Reward prediction error = What you actually got - What you expected to get
+			- If you are
+				- fine with the food, dopamine comes down to a baseline level  - basically the level before you had thoug ht about the food (RPE = 0)
+				- surprised by the food (it's completely amazing), you experience a higher peak of dopamine (RPE >> 0)
+				- unable to get the food or it is doesn't taste good, the baseline drops below where it was prior to even desiring the food (RPE << 0)
+	- You don't experience your dopamine level.
+		- You experience this as **context-dependent craving and pursuit**, because the prefrontal cortex is involved in context setting, craving and pursuit, because it relates to movement and action.
+- ## Feedback Cues & Reward Contingent Leaning, "Scoreboards"
+  collapsed:: true
+	- When we are pursuing something we are always looking for cues as to whether or not we are on the right path to achieve that thing and we are also setting a mindset or a context within our brains as to whether or not we are confident or pessimistic as to whether or not we're going to achieve that thing.
+	- The cue that we're going to likely get what we want (for instance the sign that there's a deli on the corner or that I open my phone and that there's  an app)
+		- increases dopamine, subconsciously there's already a signal that's initiated by that dopamine that I am on the right path.
+	- Then dopamine drops below baseline. That's further contributing to my desire to go pursue that sandwich. (use phone, walk to the deli)
+	- Then very is a peak of varying height depending on how satisfying I find the reward, when I actually get that sandwich get that goal
+	- There's some time delay between the queue (the app, the deli) and when I get my food. The gap is different for different things (e.g. BSc, Exam)
+		- there will be many other signals in between that inital cue that hey the reward likely lies down this path in this textbook on this dating app or at at that deli
+		- those other cues come in subconsciously and involve everything from how long the line is at the deli to seeing the types of people on a dating app that you'd like to see whether or not they're responding to you or whether or not someone's texting you back or not. All these cues are integrated and adjust your baseline of dopamine all the time as you pursue that goal.
+		- second grade version of reward prediction error takes also into account all the things that happen in between and all of that is serving as a cue for the eventual reward and all of that is funneling into what we call reward prediction error. In other words: the dopamine system is very good at subconsciously parsing what are the things that happen between wanting and getting and that is part of the learning that dopamine achieves. There are specialized circuits from the VTA and the nucleeus accumbens that are involved in just learning of how we achieve or don't achieve specific types of rewards that we desire.
+			- This is called reward contingent learning
+	- At the same time and in parallel there's an ongoing release of dopamine in the background
+		- has nothing to do with learning is really
+		- is just sort of a propeller that's driving us in the direction of whatever it is that we're trying to pursue
+	- Factors that combine into the total learning of the dopamine system:
+		- figuring out what happens prior to a reward (Reward Prediction Error)
+			- stimulus, the desire,
+			- reward or lack there of
+		- motivation signals (& reward contingent learning)
+			- the I want that -> leads to the initial pack -> peak drops a little bit below baseline -> triggers motivation
+			- also dopamine release from a separate set of neurons within this circuit to drive you forward. Pays attention what's there along the way subconsciously
+		- propeller nature of dopamine as to move you forward (continuous release in the background)
+		- => The system is basically a scoreboard for how you did give what just happened
+- ## Addiction; Pleasure & Pain Imbalance
+  collapsed:: true
+	- two types of addictions
+		- substance addictions: alcohol, cocaine, methamphetamine, ...
+		- behavioral (or process) addictions: sex, video game, any type of behavior that is leveraging the dopamine system but engages this Progressive narrowing of the things that bring us pleasure (nothing else is really Salient nothing else is pulling them in the way that their video game or sex or pornography does )
+	- What happens in an addiction? An Example: cocaine
+		- cocaine causes dramatic increases in dopamine very very fast
+		- the person craves that dopamine peak, the increased level of alertness and feeling of being under the incluence of the drug
+		- stimulus is simply that line of cocaine
+		- time gap between stimulus and reward is so short, that there's no other contingencies that the mesocortical has to learn
+		- system learns: cocaine = massive amounts of dopamine = feeling euphoric and energetic
+			- => reinforcement of the whole circuit. System wants hyper short contingency. Longer contingencies cannot compete with cocaine peaks of dopamine.
+	- Two critical aspects:
+		- duration between desire and effect (effect meaning the rewarding properties of dopamine that are experienced) is reinforced
+		- the higher the peak in dopamine and the faster the rise to that peak the further below baseline the dopamine drops after the drug wears off
+	- The drop below baseline is not just a lack of pleasure
+		- it triggers the desire and the pursuit for more => People start pursuing peaks that come very fast without much effort and addiction takes hold
+		- it takes a much longer time to get back to the original baseline than it did prior to using the drug
+	- Peak from more consumption of cocaine leads to progressively lower peaks and deeper troughs below baseline
+		- => the whole system shifts to pain and the desire for pursuit of the drug
+- ## Dopamine Release & Addictive Substances/ Behaviors
+  collapsed:: true
+	- at baseline the neutrons in the ventral tegmental area are firing at a rate of about three to four per second releasing dopamine
+	- you're relatively hungry:
+		- the **rate doubles** in the anticipation of the food
+		- and then depending on how much you enjoyed the food it might triple or quadruple or lower than it was during the anticipation
+	- nicotine: 150% increase of the rate
+	- cocaine: rate increase of the dopamine release in the prefrontal cortex by about a 1000%
+	- methamphetamine: 1000% - 10 000% depends on potency of the drug and other factors
+	- caffeine:
+		- doubling of the dopamine signaling (coming out of the VTA, nucleus accumbens to the prefrontal cortex) when we anticipate and when we drink our coffee
+		- also increases dopamine receptors over time
+	- sex: typical range four to five-fold increase of rate. For some people these numbers double.
+	- videogames: some people five-ten fold increase in rate of dopamine output from their nucleus accumbens. And yet other people no increase or decrease.
+- ## Addiction Recovery, Binding Behaviours
+  collapsed:: true
+	- Recovery from addiction (reset of dopamine circuitry from unhealthy to healthy) often takes 30 days of abstinence
+		- involves pain, discomfort, craving, anxiety, insomnia, etc when the big trough in dopamine inevitably occurs
+		- some addictions (severe alcohol addiction, some cases of opiate addiction) cannot be cured with abstinence there need to be a tapering off
+		- food, sex, video: cure is not a total elimination but to set constraints. (So it's not occurring to the exclusion and of other pleasureful/adaptive things in life)
+			- => binding behaviors:
+				- bind substance use or activity in space and or time.
+				- Idea: Clamping or directing when engagement with the dopamine releasing behavior is going to occur
+	- While going cold turkey or using binding behaviors
+		- people engage the specific circuitry within the prefrontal cortex (important for context setting)
+		- Binding behavior: Train the brain up - behavior is okay if it is done or consumed in appropriate amounts or particular context. That requires the context-setting goal-directed behavior that the prefrontal cortex is responsible for.
+- ## Tools: Maintain Baseline Dopamine Levels
+  collapsed:: true
+	- Ask what generates dopamine peaks?, what generates desire to pursue goals, what causes our readout of whether or not we achieved a goal or not
+		- => What allows us to learn how to pursue goals of different kinds
+	- Preresequiet for feeling like we are capable of pursueing goal: We have to have a healthy baseline of dopamine.
+	- Very Basics for a healthy baseline
+		- getting sufficient amounts of quality sleep each night (see toolkit for sleep) -> restores dopamine reserves
+			- As a side note: NSDR (non sleep deep rest) can also restore dopamine up to 65%. But meditation doesn't (very little evidence, is a focus exercise). https://www.youtube.com/playlist?list=PLPNW_gerXa4P6-7EC4twzLBjR22rQYk3u
+		- nutrition plays a role
+			- tyrosine (amino acid) is the rate limiting factor of dopamine production
+			- look up "tyrosine levels in different foods" online
+		- Morning Sunlight as early as possible 5-30 min depending on the weather (without sunglasses). Helps your whole hormone system.
+		- Regular Movement: Exercise program a minimum of five times a week. Dopamine release from Niagara striatal pathway (affects baseline after exercising.)
+	- Genetic factors: Some people have low activation energy
+- ## Tools: Deliberate Cold Exposure & Dopamine
+	- Behavioral tool: dopamine release for long amounts of time aka increase of baseline
+		- What is a long? Huberman's definition: Anything longer than one hour. Dopamine Releases from Addictions are relatively short-lived <1hr, after engagement.
+	- Exposure of body up to the neck to cold water increase (doubles) of dopamine & other catecholamines (include norepinephrine and epinephrine) for 2-5 hours.
+		- where: cold shower (including the head), cold plunge
+		- Approach 1: Very cold (3°C to 13°C) short exposure for 30-120s long dopamine release. Be careful.
+			- Do it early in the day.
+			- Not after strength or hypertrophy training (suppresses part of training up to 6 h after exposure)
+		- Approach 2: warmer water e.g. 15°C 45-60min
+- ## Prescriptions & Supplementation
+  collapsed:: true
+	- 1 hour or more depends on how you (individually) metabolize and manage or tolerate different dosages and types of drugs
+	- Prescription drugs: Ritalin, Adderall, Modafinil and armmodafinil
+	- Sold over the counter:
+		- l-tyrosine (pre-workouts or pure) - rate limiting factor of dopamine production
+			- Dopamine reduced (due to stress): https://www.sciencedirect.com/science/article/abs/pii/0361923094902003?via%3Dihub
+			- No Stress try to increase baseline for cognitive function: https://www.sciencedirect.com/science/article/abs/pii/S0091305799000945?via%3Dihub
+				- 100mg/kg one hour before task => Dosage is so high it's not recommended
+				- improves working memory, especially in multi-tasking contexts
+			- 500mg-100mg 30-60min are enough for increasing dopamine for a loner time. Start at 250mg
+		- mucuna pruriens: very similar to l-dopa, there's some evidence that in can increase dopamine (especially) in tuberinfrendibular pathway (taps in some hormone-related functions of the pituitary, might increase mood, alertness and even libido. Increases of peaks and troughs. => Not Recommended
+	- Always try the behavioral tools first! Be aware of troughs after the drug.
+- ## Dopamine Trought Recovery, Postpartum Depression:
+  collapsed:: true
+	- Dopamine troughs are temporary and will resolve after you wait enough time. You will feel better.
+	- Most people don't know that.
+		- => There feel amotivated or a little depressed after peak, and try to go back to the peak experience. This is a very terrible strategy :
+			- it will only lead to diminished peaks from the same experience
+			- it will lead to more and more intense experiences (to try and recapitulate that big peak, which won't work)
+			- people will start stacking and combining different dopamine increasing behaviors in order to try and obtain something like that inital peak
+		- All you need to do is wait! Remember the circuit is about Motivation, Desire, pursuit and pleasure. And has everything to do with pain/discomfort.
+			- Pain associated with the trough of dopamine as a period after in which pain and effort go hand in hand
+	- Postpartum Depression:
+		- Normally Postpartum Depression is used only after childbirth and involves more just the dopamine baseline. But also used for
+		- how a big experience (a vacation, a night out partying, a birth of a child) lead to a trough of dopamine
+		- How to get out?
+			- just wait (refill the pool of dopamine and the readily releasable pool of dopamine) - may take several days
+			- Can you acerated this process? (see next chapter)
+- ## Dopamine Dynamics, "Dopamine Stacking"; Intrinsic Motivation
+  collapsed:: true
+	- How to  engage in motivational pursuit in a variety of contexts (school, relationships, work,...) in an ongoing way and in a way that never depletes their Baseline of dopamine to the point they have to do a lot of extra work to get it back and in a that allows them to be really motivated in a variety of contexts in an adaptive way. How to leverage your dopamine system in order to be maximally motivated when you want to and indeed to avoid procrastination
+	- Standford Experince (later also done with adults):
+		- Classroom of young children (so these were kids about kindergarten age - a little bit older)
+		- observing which activities kid like to do in the free time
+			- there's was structured time (had to play blocks, had to sing or draw)
+			- researchers selected people who drawed. observed how much they did it.
+			- researchers introduced reward (e.g. gold stars)
+			- researchers cease giving them the reward => drop of the activity (that the children elected to do initially, that initially they were doing quite a lot)
+				- Their satisfaction or desire or motivation to engage in this activity dropped below what it was prior to ever receiving a reward
+				- yum activity becomes a meh activity, related to of a drop in baseline dopamine, because the activity plus extra reward created a bigger peak and therefore a bigger trough in dopamine.
+			- eventually the children returned to the activity
+	- Leverage this knowege
+		- make sure that any activities that you enjoy to do whether or not you enjoyed a little or a lot but especially if you enjoy it a lot that you guard and protect by making sure that you don't start layering in or attaching  reward or other sources of dopamine releasing behaviors or substances to that specific behavior.
+		- Or if you do that you don't do it terribly often. And be careful of how many dopamine releasing behaviors you stack!
+			- Example: Huberman likes exercise during the excersise.  When he a drank a couple of coffes, added a a preworkouts/sublements, listened to music he felt great and  it did enhance his performance. He also exported this protocol to studing and working in the lab. But in the days and weekends afterward (after the sport/working) he noticed a real trough in energy. He would not feel that good. If he have kept up those behavours consistently, his enthusiasm for those activities would have started to diminish. It would have been very discouraging.  He would have thought he was burned out, when it really was his dopamine management (the added stuff the an activitty he already enjoyed).
+			- How often is terribly often?
+		- If you can avoid this stacking and engaging in extra rewards, you will become one of those fortunate few that does not require additional stimuli and therefore can hold on to that intrinsic motivation to engage in these behaviors over time which frankly there is no replacement for.
+			- Intrinsic Motivation feels great. It's the holy grail of all human endeavors. It's is the source, the chi and noting short of magic !
+- ## Making Effort the Reward, Growth Mindset
+  collapsed:: true
+	- When metal friction becomes the reward, you pass from an idea and a goal to a reward no matter how daunting to successful completion of that goal while experiencing what essentially will feel like pleasure the entire time. Now that doesn't mean it will be bliss the entire time. But what is possible is to maintain your baseline level of dopamine but to also pull yourself out of any kind of procrastination or other kinds of overthinking trenches very quickly and get back into a mode of pursuit.
+	- How do we make effort the reward?
+		- Growth Mindset (Dr. Carol Dweck Stanford, David Yeager University of Texas Austin) as a Tool to get better in anything
+		- Basic idea: If you can't do something well that you can't do it or can't do it well **yet**.
+		- Can be difficult in a performance situation, because we are so used to being attached to the relationship between desire, motivation, and outcomes (Reward prediction Error.) Example If we don't get that A that we expected, we can become amotivated or even depressed.
+- ## Tool: Overcome Procrastination
+  collapsed:: true
+	- First, take care of your dopamine baseline
+	- Set of Tools for lack of motivation & problems with overthinking and procrastination
+		- Remember: A peak in dopamine is followed by a trough in dopamine. That trough is experienced as pain or wanting or craving. That pain is actually a craving or a wanting for a specific state that you would like do achieve that is different from the one that you're in (out of that trough). The trough is the stimulus for the ongoing release of dopamine (the propeller the motivation to go forward and seek some goal).
+		- So the keys of getting out of the trough are:
+			- wait (might be a form of procrastination )
+				- Might result in procrastination (engagement in activities we would not consider pleasureful activities e.g. cleaning the house as a replacement for the thing they "need" to do or ought to do)
+				- In this case procrastination is a mild type of addiction replacement. Maybe: Feeling of achiving things or generating momentum in order to get engaged enough or motivated enough to study/ work out/ (insert the activity they 're trying to avoid through procrastination)
+				- It's very common behavior.
+				- People get very close to the deadline to completing something and then they go into a sort of pseudo panic and use anxiety as a way to leverage their mental and physical resources to complete that thing.
+			- use findings from addiction literature
+				- the depth of the rough after a dopamine peak is proportional to how high and how steep it was.
+				- the rate at which you get out of that trough is proportional to how steep that trough is.
+				- If you do something that is harder (effortful, painful) than being in that a-motivated state, you can rebound yourself out of that dopamine trough much more quickly
+					- more painful does not mean injure yourself (physically, or psychologically) - not even in the short term
+					- E.g. when you are are a-motivated, cleaning your house is not more painful (or you wouldn't be doing it)
+					- instead put your mind and body in a state of discomfort quickly
+						- engage in some tangential activity (not related to the goal, e.g. a pain from a cold shower)
+					- harder as limbic friction has two forms:
+						- you're tired and you don't want to do something
+						- you're nervous and scared to do something and you have to calm yourself in order to lean forward into action in order to do that thing despite the anxiety
+					- Example: You have difficulties exercising 5 times a week. Just get one minute or 5 minutes done. Use the success completion as a milestone that allows you to then move to the next milestone. The short exercise can work as a more painful state. If this does not work (you still are in the the through, do something tangential to the whole path that you're trying to pursue that is worse than being in the a-motivated state. Think about it deliberately. Find something that really sucks. By doing that you steepen the slope of the trough, which we know brings you back to your baseline level of dopamine more quickly (e.g. cold exposure)
+				- The key: Have a list of 5 different effortful, painful activities that you can employ anytime, you're feeling amotivated or are in a state procrastinating
+					- AND go trough the activity of course!
+- ## Tool: Meditation & Procrastination
+  collapsed:: true
+	- classic meditation don't release dopamine levels
+	- but, for people who find meditation effortful (e.g. because the don't do it much) - a brief 5-10min session where you absolutely do not allow yourself to do anything beside close your eyes, focus on your breath and when your mind drifts get back to your breath is not only extremely difficult and extremely frustrating (unless you're a well-practiced meditator), but also often difficult and frustrating not just to do but also to get into that practice but also to maintain that practise for that mere 5 minutes.
+		- If you dislike it so much, then perfect. It's the perfect practice for you available everywhere when you feel amotivated or are procrastinating.

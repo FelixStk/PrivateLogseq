@@ -1,0 +1,27 @@
+- ## Agenda
+	- ###  Lectures & cards WiSe 2021/22 >[2023-01-01 - 2023-01-22](#agenda://?start=1672582261170&end=1674396661170) #milestone
+	  collapsed:: true
+		- DONE JA_LE1_WS21-22.mp4 - 80 min
+		- JA_LE2_WS21-22.mp4 - 146 min
+		- JA_LE3_WS21-22.mp4 - 95 min
+		- JA_LE4_WS21-22.mp4 - 142
+		- JA_LE5_WS21-22.mp4 - 123 min
+		- JA_LE6_WS21-22.mp4 - 84 min
+		- JA_LE7_1_Gliederung der Bilanz_WiSe21-22.mp4.mp4 - 30 min
+		- JA_LE7_2.1_Ansatz von Vermögensgegenständen_WiSe21-22.mp4 - 89 min
+		- JA_LE7_2.2_Ansatz von Schulden_WiSe21-22.mp4.mp4 - 51min
+		- JA_LE8_3.1_Bewertung von Vermögensgegenständen.mp4 - 89 min
+		- JA_LE8_3.2_Bewertung von Schulden.mp4 - 25 min
+		- JA_LE9_4_Ausgewählte Bilanzierungsfragen.mp4 - 55 min
+		- JA_LE10_Erfolgsrechnung.mp4 - 52 min
+		- JA_LE11_Jahresabschlussanalyse.mp4 -83 min
+	- ###  Exercises
+	  collapsed:: true
+		- 1
+		- 2
+		- 3
+		- 4
+		- 5
+		- 6
+		- 7
+	- ### Pass Exam Mo. 13.02.2022 #milestone

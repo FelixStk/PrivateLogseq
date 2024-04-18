@@ -1,0 +1,6 @@
+- # The Smart goal
+	- Specific: Work every day 6 hours in a 7 hour window to finish my BSc thesis + Keeping up with the normal lectures (OS, Copyright, Abschlussbericht)
+	- Measurable: Time Tracking via aTimeLogger
+	- Assignable: I will do it
+	- Realistic: pass all exams with a good grade (<2,0)
+	- Time-related: Finish the BSc by the end of the semester, prep for all exams till Sun, Feb 26, 2023

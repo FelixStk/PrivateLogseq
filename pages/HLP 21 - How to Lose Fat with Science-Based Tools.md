@@ -1,0 +1,135 @@
+- ## 5 Pillars of Metabolism (basis for the tools)
+	- Sleep
+		- see Huberman Lab Podcast 1-4
+		- Light Expose (Morning, Evening, Night), Temperature, Timing correctly
+	- Essential Fatty Acids
+		- see: food and mood episode, hormone episode
+		- for antidepressant effect, healthy metabolism, good bloodborne cardiovascular factors: EPA > 1000 mg
+			- fish, grass raised meat \rarr google online
+	- Glutamine
+		- good for controlling sugar cravings (also EPA does it)
+		- improves leaky gut
+		- cotton cheese
+	- Microbiome
+		- probiotics, prebiotics
+		- one serving of fermented food
+	- Thyroid & irodine
+		- tablesalt
+		- to help the thyroid system take selenium \rarr 2-3 brasil nuts
+- ## Mindset Truly Matters: Examples of Befiefs on Fat Loss
+	- Thermodynamics still holds: Energy in - Energy out = Fat Lose
+	- Belief Effects: E.g. Alia Crum Stanford two group study:
+		- first group was brief about that the standards for activity at work were satisfied
+		- second group was briefed about the benefits about the activity
+		- Result: Being told about benefits leads to significantly more body fat loss and other positive effects (probably by changing their behavior e.g. more activity)
+			- How we think about activities \rarr how we perform activities \rarr how many benefits you get from the activities
+- ## Fat Burning
+	- is a two part process. where are the leverage points?
+		- fat mobilization
+			- a process called lipolysis, move the fat out of the fat cells into the bloodstream
+			- stored fat has two parts: fatty acid part (which the body uses) and the glycerol part  - linked by a backbone (have to brake it with an enzyme lipase)
+		- fat oxidation
+			- fat goes in cells, need to be moved into the mitochondria (to oxidize / burn it) than it can be converted into ATP
+			- if the cell does not burn it, the that will be returned to the fat cells
+	- Both process are governed by neurons in your nervous system!
+		- the conversion of fatty acids into ATP is favored by *adrenaline*. Adrenaline is released from two sources: adrenal glands (Nebenniere) and the sympathetic nervous system (stimulates alertness and promoting action of the body, dt. Sympathikus oder sympathisches Nervensystem).
+		- The adrenaline that stimulates fat oxidation comes from neurons that *are connected to the fat* (it's a local process)
+- ## How can you activate the nervous system for fat burning?
+	- one powerful way to stimulate epinephrin (adrenaline) release is *movement*
+		- **Shivering** is very powerful more so than exercise. **Exercise** is still a great idea!
+			- Rothwell and Stock (England in the 60s &70s, famous in the thermogenesis literature) discovered a pathway
+		- **Low level movements** for burning fat
+			- Some people overeat and don't gain weight. They observed lots of subtle movement in these individuals (fidgeters). Low body fat people hat a lot of resting tremor (not of the parkinsonian type). E.g. they bounced their knee while they were sitting, do electric/angular movements while talking or have a head bob while they're listening, nod a lot, stand up and sit down a lot throughout the day.
+			- These people burn **800 - 2500 kcal more per day** than the people in the control group. [I only found studies up to 2000 kcal]
+			- 2015, 2017 studies explored the subtle movements idea using some modern metabolic tracking.
+				- people lost 20-30% more weight
+				- Works best in people who are already slightly overweight
+		- Google **NEAT protocols** (non-exercise activity thermogenesis) for more ideas
+- ## How to use cold and leverage shiver correctly
+	- ### Three kinds of fat
+		- **White fat** (white adipose tissue): traditional fat, subcutaneous fat, not particularly rich in mitochondria, energy storage
+		- **Brown fat** (brown adipose tissue): between should blades and the back of our neck between scapulae, rich with mitochondria, can take food and break it down into energy (is thermogenic - can use energy directly). Babies are rich with brown fat (they cannot shiver because the neurons are not wired up).
+		- **Beige fat** (beige adipose tissue): white fat that could be frown fat, because it has some mitochondria in it but not as many as brown fat.
+	- ### What getting into cold does?
+		- Release of *adrenaline* from your *adrenals* and the release of epinephrin from the *neurons that connect to fat*
+		- Builds *mental resilience*
+		- Effects metabolism through *two routes*:
+			- Trigger **activation of brown fat** (create a hotter "furnace" - Schmelzofen). *It is shivering itself* that causes the brown fat to increase. It increases your burning rate and your metabolism by releasing a molecule called **succinate**. It actually increase body heat through brown fat thermogenesis pathway.
+			- **Convert beige fat into brown fat**. Succinate increases brown fat thermogenesis and fat burning overall. May increasing the amount of brown fat cells.
+			- Source:
+				- Accumulation of succinate controls activation of adipose tissue thermogenesis. https://doi.org/10.1038/s41586-018-0353-2
+				- Bartness et. al, Neural innervation of white adipose tissue and the control of lipolysis. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175185/
+	- ### How to do it correctly?
+		- Studies show positive effects on fat lose
+			- for exposing yourself to cold through *ice baths*, *cold showers* or *other cold sources*
+			- for anywhere between *one to five times per week*  (one exposure per week can be valuable)
+		- **Get repeatedly in and out of the cold. Typically not dry off!**
+			- *Don't resist the shiver!* You would not get the succinate release and not increase metabolism. So shiver as much as you can!
+			- *Mistakes: Stay in the cold* when you are shivering, becoming hypothermic, not asking a doctor for approval
+			- **Try to avoid the cold adaptation!** Your would stop getting the adrenaline release from the cold (less succinate). Minimal Stimulus principle.
+		- **Protocol** to enhance the factor for shivering
+			- How cold should it be? Not too cold - could give you a heart attack. Find a **temperature that is unconfutable to you**. E.g. 15 degrees Celsius
+			- How often? One to three times per week. five times if you really want it.
+			- What? Stay in the cold until you start to genuinely shiver; then get out for 1 to 3 minutes let it dry of; then repeat over - do 3 repetitions
+				- company (sponsor & protocols): https://thecoldplunge.com/pages/protocols
+			- Tip: Take some rest months if you become adapted to the cold.
+- ## Exercise
+	- **Spot Reduction Myth** (losing fat in a specific body area e.g. belly): There may be hope after all
+		- If you can target fat pads by *movement locally*, you will increase mobilization in these body target areas. *Technology is still developing...*
+		- *Hypothesis:* Novel types of movements may increase the growth of neurons that innervate fat throughout the body
+	- Exercise has been shown lead to **increase of metabolism** and fat lose to greater degrees depending on:
+		- whether or not you're **fasted**, when you do it or not
+		- whether you do your cardio first or your **resistance training first**
+	- ### Types of training
+		- **High intensity interval training (HIIT)** - 80-100% VO2max bursts 60-240s intersperse with less intense recovery periods
+		- **Sprint interval training (SIT)** - 100% VO2max burst 8-30s intersperse with less intense recovery periods
+		- **Moderate intensity continuous training (MICT)** - steady state cardio (sometimes called Zone 2 cardio) 40-60% VO2max 20-60 min, 55-70% max heard rate
+		- **Low intensity exercise** - you could carry on a conversation while you run
+	- ### Fasting before sports?
+		- **Insulin prevents fat oxidation** (insulin lowers blood glucose levels by stimulating body cells)
+		- Studies: Al Borg et all. 1976 glucose reduces fat burning in exercise, Horowitz 1999, Lee et al (people drink milk with glucose)
+			- *eating before exercise reduces the fat that's oxidized during exercise*
+		- However it's controverse. Other studies show the opposite: E.g. for short amount of training it does not matter, if you eat before training or not
+		- **Modern meta analysis:**
+			- At about or after *90 minutes of moderate intensity exercise*, there is a switchover point. Whereby if you ate before the exercise (<3 hours), you will burn far less fat from the 90 minutes onward
+			- for *20-60min high-intensity training* or very high-intensity training (e.g. SIT, deadlifts, squats, reps that can't be maintained for up to 60 seconds) the switchover point comes earlier
+			- **switchover point** = body shifts over from mainly burning glycogen (sugar from muscles or the liver) to using fat. Happens when insulin has go down far enough. *Do the hard training before the zone 2 cardio* or *do fasting to deplete glycogen* (for burning more fat).
+	- ### Post-Exercise Metabolic increases (for fat loss)
+		- calories in vs calories out and counting calories during their session is only half of the equation
+		- **High intensity training** (anaerobic training of weight training, sprints, burpees...)
+			- taps into glycogen stores during the movement and burn more energy per unit time than moderate training.
+			- The percentage of burned fat after exercise is greater for high intensity than for moderate training. Sometimes up to 24 hours.
+		- **Moderate to low intensity training**
+			- More body fat is oxidized than glycogen during the exercise afterward it's more glycogen.
+		- **Order**: *High intensity training followed by low intensity training* is optimal for an increases of basal metabolic rate (and burning fat)
+		- **Mechanism:**
+			- Adrenaline is the effector:
+			- Big movements (high effort) deploy a lot of adrenaline/epinephrin from our neurons and signal types and amount of fat thermogenesis and fat oxidation
+			- Whereas for low level to moderate intensity exercise there's not much adrenaline release.
+- ## Compounds and diets
+	- Deadly and ineffective drugs - do not take!
+		- Dinitrophenol (DNP) is a absolut terrible compound
+			- It increases body temperature to a fatal degree!
+			- It changes the *neurons*, that connect to fat. It changes the way fat burns up.
+		- Ephedrine (is in the same pathway) is illegal - people dropped dead by triggering of adrenergic receptors (which increases body temperature too much)
+		- Fen-Phen (fenfluramine) craze: people were dying to cardiovascular effects
+		- Irisin (hormone associated to cold) didn't produce a weigh loss drug. It went nowhere (at least do Huberman's knowledge)
+	- Increase oxidation by **increasing the amount of epinephrin**
+	  collapsed:: true
+		- **caffein**: can be effect up to dosages up to 100-400mg (1.5-2 cups) 30-40 min before exercise (Be careful with such a high dose, if not caffein adapted!)
+		- **yerba mate** (a tea) increases GLP-1. **GLP-1** is in the glucagon pathway. (Glucagon counters effects of insulin. It increases blood sugar levels).
+			- Increases fat burning - especially true before exercise of any kind. Also helps shifts to more fat burning when resting
+			- Incidentally there's a prescription drugs based on increases in GLP-1 also lead to significant weigh lose: semaglutide
+			- **reuse of tea leaves** (for about an day before they go bad). You will extract more and more of the compounds from the mate leaf that increased GLP-1
+			- Infos about https://examine.com/foods/yerba-mate/
+		- **guayusa tea**: An alternative to mate tea (is sweeter) ... maybe mix with mate
+		- for further information on how you can impact insulin and glucagon see **HLP 15-18** about hormones
+			- **berberine** or **metformin** are very potent at reducing blood glucose, which will reduce insulin (because the job of insulin is to manage glucose). This increases fat oxidation (the conversion of fatty acids into ATP in the mitochondria is inhibited by insulin).
+	- L-carnitine and **acetyl-l-carnitine** facilitates fat oxidation.
+		- Helps convert fatty acids into ATP (slight increase in fat oxidation rate)
+		- 500 - 2000 mg per day in divided doses
+		- also reduce ammonia in the blood, c-reactive protein levels, can slightly reduce blood glucose, can slightly increase HDLC, slightly reduce overall cholesterol, rate of pregnancy and sperm quality, reduce blood pressure, reduces fatigue during exercise, reducing inflammation markers like interleukin 6 ... many positive effects
+		- acetyl-L-carnitine is the more natural form (compared to l-carnitine) and most easily utilized by the body
+	- About diets
+		- studies from Stanford show the type of diet does not matter as long as you can adhere to it. The caloric deficit matters.
+		- purely scientifically **low insulin level help fat burning** maybe this is why some people see benefits from **low or moderate carbohydrate diets**

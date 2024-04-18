@@ -1,0 +1,51 @@
+- ## Tricks for writing faster
+	- Remove Distractions
+	- Block out Time
+	- Focus on one task at a time
+		- Through ideas down
+		- Outine the paper
+		- Add Graphics, Tables, Code
+		- Write
+		- Add refernces
+	- Verbal vomit: Exercise writing without pause (e.g. stream of counciousness), pump the first draft out (regardless if it sucks, improving it later is relatively easy)
+- ## About the general process (5 Step strategy)
+	- **gather** 10 to 20 research articles
+	- read and **highlight** articles and highlight:
+		- conclusions made by the author (abstract and conclusion section)
+		- reasons and rational for their hypothesis (introduction section)
+		- references to other artilces
+		- statistics or strong theoretical or logical statements that are relavent to your research question
+		- ignore method if not relevant to your work (critical errors as motivation)
+	- **quote** the things you highlighted (word for word with citation) or paraphrase the quotes
+	- add **commentary**: add insights or other papers, weakness, other approaches
+	- **group** your quotes by topic and add transitions
+- ## How to produce a first draft (by Prof. Pete Carr)
+	- suppressing the urge the urge of procrastination and put off the work
+	- Preliminaries
+		- Review and renew your literature search
+		- Determine who your audience is
+			- What kind of paper is it - reseach review, tutorial (purpose of the paper)
+			- What journal is it intended for
+			- Undergraduates, researchers, but always the reviewers
+	- The Big picture
+		- writing the initial draft is the **creative part** of the job. Resist the temptation to correct and edit as you go. Your job now is the produce a **complete first draft.**
+		- Editing is the second step. Critical thinking, analytical part of the job. Editing before having a complete first draft is a waste of time.
+	- The "Algorithm"
+		- **Just get started don't procrastinante.**
+		- **Create an outline** by making a list of all your figures and tables. Put them in order of presentation as them may appear in the results and discussion. Always work from an outline. If you have to stop you can easily pick you the writing later. You have the data so this part is easy.
+		- **Do not write the introduction now.** It is the hardest part of the paper to write . Again it could be a waste of time to write it now
+		- **Begin with the experimental section.** It is the easiest part to write and getting it done will give you a feeling of progress.
+		- **Now write the results and discussion** following the outline.
+		- Write the conclusions. I like a numbered format. 1... and 2...
+		- Now the introduction: should cover the why and the relevant essential background information
+		- Produce references for the paper.
+		- Always follow manuscript requirements
+		- Classic books:
+			- W. Strunk and E.B. White. : The Elements of Style
+			- ACS Author's Guide
+			- *R.W. Murray, Anal. Chem. 2011 83, 633 "Skillful Writing of an Awful Research Paper" Seven Rules to Follow.*
+			- A. Eisenberg, "Effective Technical Communication"
+			- P. T. O'connerr : "Words Fail Me"
+			- George M. Whitesides: Whitesideś Group: Writing A paper
+		-
+-

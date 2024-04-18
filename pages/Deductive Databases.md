@@ -1,0 +1,12 @@
+- # Agenda #todolist
+	- ### Part 1: Logic-Based Database Theory: Relational Calculus
+		- TODO Types of Reasoning (18.04)
+		- TODO Relational Calculus and First-Order Logic (18.04)
+		- TODO Relational Calculus (09.05)
+		- TODO SRNF - Safety and Domain Independence (09.05)
+		- TODO RANF - Sideways Information Passing vs Botton-Up written noes (09.05)
+		- TODO Equivanance of the Relational Calculus and the relational algebra (09.05)
+		- TODO Exercisee 1 - Relational Calculus and Algebra (09.05)
+		- TODO FOL Reasoning I (16.05)
+		- TODO FOL Reasoning II (16.05)
+		-

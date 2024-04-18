@@ -1,0 +1,5 @@
+- ## Experimental methods
+	- [[Khai Truong, Pilot Studies]]
+	- [[Mensch-Maschine-Interaktion: User Study Design]]
+	- [[Sikov, Asking the Right Questions]]
+	-

@@ -1,0 +1,19 @@
+- # Projects
+	- ## University
+		- [[Bachelorarbeit]]
+		- [[Forschungspraktikum]]
+		- [[Immaterialgüterrecht I (Urheberrecht)]]
+		- [[Jahresabschlussbericht]]
+		- [[Betriebsysteme]]
+		-
+	- ## Job & Education
+		- [[Find my first Job]]
+		- [[Learn English]]
+		- [[Read 24 Books]]
+	- ## Self Care
+		- [[Ernährung]]
+		- [[Gewohnheiten]]
+		- [[Sport]]
+- # Goals
+	- ### From The Anual Review 2022
+		- {{embed ((63b1598b-8b74-4ffb-8688-dd31812f31c6))}}

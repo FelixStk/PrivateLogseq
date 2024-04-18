@@ -1,0 +1,53 @@
+- # Goals
+	- ### Work
+	- Catch up with all lectures
+		- [[Immaterialgüterrecht I (Urheberrecht)]]
+		- [[Jahresabschlussbericht]]
+	- Finish Lab Report
+	- Do a third of your Bachelorthesis
+	- ### Personal
+		- Start keeping track of finances
+		- Start CaliMove Program
+		- Do meal planning (myfiitnesspal)
+		- Read two books
+	- ## Week 1
+		- DONE Finish Lab Report [[Forschungspraktikum]]
+		- Write Thesis Proposal [[Bachelorarbeit]]
+		- DONE Catch up with Emails -> Read about metrics and Prof. Reinhards References
+		- Catch up with [[Immaterialgüterrecht I (Urheberrecht)]]
+- # Habits
+	- ## Habit formation
+		- *Start implementing 6 important habits via* [[Habit Protocol]]
+		- ### Get quickly out of bed (Morning Routine)
+		  collapsed:: true
+			- Trigger: Alarm clock
+			- Behaviour: Make the bed -> Take a cold shower -> Breakfast -> Schedual in a calendar / Plan the day and Commit
+		- ### Better Sleep (Evening Routine)
+			- Trigger: One hour before bed time (19:00)
+			- Behaviour: Woebot -> Daily Log -> Update Todos -> Relax without screens (e.g. podcast, book)
+		- ### Shaulin Value
+		  collapsed:: true
+			- Trigger: Finished Planning
+			- Behaviour: Chi Gong -> Review one value (change daily) -> Review 8 fold path (one aspect per week)
+		- ### Meditation
+			- Trigger: After every 90 min Focus Period
+			- Behaviour: HRV-Breathing, Charging the Laser Beam or Mantra
+		- ### Calories tracking
+		  collapsed:: true
+			- Trigger: Being about to eat something
+			- Behaviour: Log food in myfitnesspal -> eating -> brush teeth -> mouth water
+		- ### Cleaning
+		  collapsed:: true
+			- Trigger: Laying something down, where it doesn't belong
+			- Behaviour: Lay it down in the right place
+	- ## Habit breaking
+		- Social Media Usage -> Drink water, Learn English, Breath Work, Violine, Anki
+		- Making Excuses to avoid work -> Drink water, Breath Work
+	- ## Irregular Habits
+		- Start using Money Pro after spending money
+		- Meal planning (Weekly)
+		-
+- # Readings
+	- [[The Molecule of More]]
+	-
+-

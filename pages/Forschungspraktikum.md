@@ -1,0 +1,15 @@
+- ## Agenda
+	- DONE Finish writing the lab report >[2023-01-08](#agenda://?start=1673132400000&end=1673134200000) #milestone
+		- DONE Finish first draft about the foundations (HRI, Hardware, Software) >[2023-01-01 - 2023-01-03](#agenda://?start=1672567940000&end=1672740740000)
+		- DONE Finish first draft about the Implementation >[2023-01-02 - 2023-01-03](#agenda://?start=1672654356000&end=1672742556000)
+		- DONE Finish fist draft about the the discussion >[2023-01-03](#agenda://?start=1672740774814&end=1672742574814)
+		- DONE Add Sources >[2023-01-04](#agenda://?start=1672827202974&end=1672829002974)
+		- DONE Check spelling >[2023-01-04](#agenda://?start=1672827221804&end=1672829021804)
+		- DONE Review chapters >[2023-01-05 - 2023-01-06](#agenda://?start=1672913637759&end=1673001837759)
+		- DONE Aks friend for correction >[2023-01-07](#agenda://?start=1673086896135&end=1673088696135)
+		- DONE Email to Prof. Reinhard -> Send Report in >[2023-01-08](#agenda://?start=1673173332617&end=1673175132617)
+		-
+- ## References
+	- Writing https://academiccloud.de/
+	- Literatur Logseq -> CSP_Lab_Notebook
+-

@@ -1,0 +1,9 @@
+- Unit-cost Random Access Machine (RAM) with log-word size (Pretty much the modern computer.)
+	- If the input has size n, then each memory cell can store O(log n) bits, or, in other words, that the machine word size is O(log n).
+	- The model contains common instructions, whose execution takes constant time:
+		- arithmetic (add, subtract, multiply, divide, remainder, shifts, bitwise operations, etc.), equality testing.
+		- data movement (indirect addressing, store a number in a memory cell, load the content of a memory cell in a variable, copy the content of a memory cell to another,
+		- control (conditional/unconditional branch, subroutine call/return).
+		- The instructions are executed one after another.
+	- We measure the number of instructions executed in an algorithm, making an abstraction of the time spent executing each basic instruction.
+-

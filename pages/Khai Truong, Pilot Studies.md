@@ -1,0 +1,61 @@
+- ## About
+	- Autor: Khai Truong, University of Toronto, GetMobile October 2016
+	- Title: Pilot Studies: When and how to conduct them when conducting user studies
+	- link: https://dl.acm.org/doi/10.1145/3081016.3081020
+- ## Introduction
+	- Motivation for pilot studies
+		- Evaluating an interactive system with users can be costly and timeconsuming
+		- Enables identify, remove and avoid problems
+			- Frustration about data collected from user evaluations due to bad study design
+			- enables learning from mistakes in a small scale version of the actual study
+			- practices data collection
+		- understand feasibility, time, costs and effect size
+	- Examples - Problems in user studies:
+		- protocols and instruments do not align with the purpose of the evaluation -> open questions remain
+		- key data have not been collected -> no analysis possible
+		- system might crash
+- ## When are pilot studies needed?
+	- Disadvantages of doing pilot studies
+		- requires time, effort and resources to complete
+		- data collected from a pilot study often are not adequate for producing results that can be reported or published
+		- Evaluators might believe that they have
+			- sufficient experience do conduct full scale study
+			- know the potential problems
+	- Advantages of doing pilot studies
+		- does not requires as much of an investment as the full scale study
+		- help to remove the unobvious mistakes in the design of the study
+		- allows for a test of protocols, instruments including the system
+		- estimation of how much time and participants the will need for the study
+- ## How to perform a pilot study?
+	- test the study design includes
+		- testing of
+			- the hypothesis (data may suggest a change)
+			- protocol -> produce usable, reliable and valid data
+			- the instruments (for unforeseen problems/ incorrect use)
+				- surveys with misleading, inappropriate,or redundant questions
+				- evaluation of feedback or data -> reveal issues
+		- for this a small number of participants is typically used
+			- Baker suggests a asample size of 10-20% of the actual study. See Baker, Therese L. Doing Social Research. McGraw-Hill College, 1988
+			- additional participants may be added until the evaluation team has developed sufficient comfort with the protocol can can execute the study without any issues
+		- determine specific parameters of a user study
+			- E.g. how may participants are needed or how long a study must be conducted
+			- Is based on
+				- factors such as the acceptable level of signifiance, the power of the study, and the expected effect size.
+					- Reference: Kadam, Prashant, and Supiya Bhalerao: "Sample size calculation" International journal of Ayurveda research 1, no 1 (2010):50
+				- similar previous studies
+				- Detials: Noordzij et. al: "Sample size calculation: basic principles and common pitfalls."
+		- pilot study should be planned for and given plenty of time to complete before the main study is to begin -> time for interpretations
+		- if there are major adjustments are made to the study a additional pilot studies should be conducted
+- ## What to do with data collected from a pilot study
+	- improve the final study with the data
+		- use data to test the data analysis method
+		- verify that the data collected in the actual study will be usable, relieable, and valid data
+	- data is typically viewed as inadequate for producing conclusive results
+	- if a pilot study does not lead to any modification to the final study design, then the data can potentially be included in the main study. If there are differences be careful about
+		- Participants who were recruited for the two studies => exposure affects data => create two pools
+		- the timing of when and where the studies took place
+		- => Therefore it is helpful to include some information about the pilot study
+- ## Limitations of Pilot studies
+	- no guarantee for success (amount of pilot data is small -> predictive power is low)
+	- experimenter bias: evaluators may unintentionally be expecting specific user behaviour or usage of a system
+	- require time effort and resources to complete as well -> evaluators must include what they think is needed to complete a pilot study when planning for an evaluation of a system
